@@ -30,7 +30,7 @@ This project aims to build a **one-stop solution** for Indian farmers by leverag
 ## Future Enhancements 🌱  
 🔹 AI-driven pest and disease alerts  
 🔹 Integration with government schemes for farmer benefits  
-🔹 Community forum for farmers to share insights. 
+🔹 Community forum for farmers to share insights
 
 ---
 
