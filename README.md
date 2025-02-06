@@ -19,5 +19,20 @@ This project aims to build a **one-stop solution** for Indian farmers by leverag
 ⚡ **Backend** – FastAPI (for handling API requests efficiently)  
 🤖 **Machine Learning** – Scikit-learn, TensorFlow/PyTorch (for model development)  
 📦 **Database** – Firebase / Firestore (for easy integration and scalability)  
-🌦 **APIs & External Services** – OpenWeatherMap (weather data), Getform (form handling), Free SMS APIs (for notifications)  
+🌦 **APIs & External Services** – OpenWeatherMap (weather data), Getform (form handling), Free SMS APIs (for notifications)
+
+## Development Status 🚧  
+🚀 *Phase 1: Research & Data Collection* – Identifying and gathering datasets for training ML models.  
+🔬 *Phase 2: Model Development* – Experimenting with different ML models to select the best one.  
+🛠 *Phase 3: Web Development* – Building and integrating the website with backend services.  
+📢 *Phase 4: Deployment & Testing* – Hosting the platform and testing usability.  
+
+## Future Enhancements 🌱  
+🔹 AI-driven pest and disease alerts  
+🔹 Integration with government schemes for farmer benefits  
+🔹 Community forum for farmers to share insights  
+
+---
+
+⚡ *Stay tuned for updates!* 🚜
  
